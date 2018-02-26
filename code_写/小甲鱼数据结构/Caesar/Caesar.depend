@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507984424 source:d:\code\caesar\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507984424 source:d:\code\小甲鱼数据结构\caesar\main.c
+	<stdio.h>
+	<stdlib.h>
+

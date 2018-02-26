@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446667744 source:d:\code\aad\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1508935618 source:d:\code\aad\s.cpp
+	<iostream>
+

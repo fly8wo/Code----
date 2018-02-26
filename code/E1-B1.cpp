@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+	int n;
+	n=0;// ‘ ‘≤ª≥ı÷µ. 
+	scanf("%d",&n);
+	
+	n=n*(n+1)/2;//◊¢“‚≥À∫≈* 
+	
+	printf("%d",n);
+	
+	
+	
+	return 0;
+}

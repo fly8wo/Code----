@@ -1,0 +1,3 @@
+C:\Users\fly8wo\.CLion2017.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/d/Code/算法竞赛入门经典
+CMake Error: The source directory "/cygdrive/d/Code/绠楁硶绔炶禌鍏ラ棬缁忓吀" does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508139989 source:d:\code\c\main.cpp
+	<stdio.h>
+	<math.h>
+
+1507979350 source:d:\code\c\数据结构.c
+	<stdio.h>
+	<malloc.h>
+

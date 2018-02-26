@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lrj_rumen.dir/main.cpp.o  -o lrj_rumen.exe -Wl,--out-implib,liblrj_rumen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

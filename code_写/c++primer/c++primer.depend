@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1507978897 source:d:\code\c++primer\shujujiegou2jin.c
+	<stdio.h>
+
+1514536461 source:d:\code\c++primer\untitled2.c
+	<stdio.h>
+
+1511079032 source:d:\code\c++primer\a2.cpp
+	<iostream>
+
+1507715586 source:d:\code\c++primer\3.15.c
+	<iostream>
+	<vector>
+
